@@ -476,6 +476,7 @@ body {
   width: 50%;
   margin-top: 70px;
   margin-right: 70px;
+  margin-left: 30px;
   gap: 30px;
 }
 .small_container_2_title {
@@ -496,6 +497,7 @@ body {
   width: 50%;
   display: flex;
   height: 100%;
+  margin-right: 40px;
 }
 .small_container_2_foto_ {
   height: 100%;
@@ -690,6 +692,7 @@ body {
   }
   .small_container_2_foto {
     width: 100%;
+    margin: 0 auto;
   }
 }
 @media (max-width: 850px) {
