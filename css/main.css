@@ -782,4 +782,7 @@ body {
   .avion a {
     font-size: 18px;
   }
+  .box_in_menu {
+    padding: 70px 30px 30px 30px;
+  }
 }
